@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarchopda757&label=Profile%20views&color=0e75b6&style=flat" alt="sagarchopda757" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarchopda757" alt="sagarchopda757" /></a> </p>
-
 - 🔭 I’m currently working on [Express Template Generator](https://www.npmjs.com/package/express-template-generator)
 
 - 🌱 I’m currently learning **Microservices, AI**
@@ -28,6 +26,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sagarchopda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sagarchopda" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarchopda757&show_icons=true&locale=en&layout=compact" alt="sagarchopda757" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarchopda757&show_icons=true&locale=en" alt="sagarchopda757" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarchopda757&show_icons=true&locale=en&layout=compact" alt="sagarchopda757" /></p>
